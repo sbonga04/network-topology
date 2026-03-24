@@ -8,3 +8,4 @@ PC1
 PC2
 PC3
 All connected via eth0
+Using a Switch 
